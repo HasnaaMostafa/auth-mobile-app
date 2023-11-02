@@ -1,0 +1,4 @@
+#Thu Nov 02 17:43:57 EET 2023
+base.0=D\:\\hasnoaaa\\Flutter\\Intern2Grow\\task1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
